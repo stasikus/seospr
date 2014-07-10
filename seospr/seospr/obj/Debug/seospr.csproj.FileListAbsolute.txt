@@ -1,0 +1,42 @@
+c:\users\stas\documents\visual studio 2012\Projects\seospr\seospr\bin\Debug\seospr.exe.config
+c:\users\stas\documents\visual studio 2012\Projects\seospr\seospr\bin\Debug\seospr.exe
+c:\users\stas\documents\visual studio 2012\Projects\seospr\seospr\bin\Debug\seospr.pdb
+c:\users\stas\documents\visual studio 2012\Projects\seospr\seospr\obj\Debug\seospr.csprojResolveAssemblyReference.cache
+c:\users\stas\documents\visual studio 2012\Projects\seospr\seospr\obj\Debug\seospr.Form1.resources
+c:\users\stas\documents\visual studio 2012\Projects\seospr\seospr\obj\Debug\seospr.Properties.Resources.resources
+c:\users\stas\documents\visual studio 2012\Projects\seospr\seospr\obj\Debug\seospr.csproj.GenerateResource.Cache
+c:\users\stas\documents\visual studio 2012\Projects\seospr\seospr\obj\Debug\seospr.exe
+c:\users\stas\documents\visual studio 2012\Projects\seospr\seospr\obj\Debug\seospr.pdb
+D:\C#\seospr\seospr\bin\Debug\seospr.exe.config
+D:\C#\seospr\seospr\obj\Debug\seospr.exe
+D:\C#\seospr\seospr\obj\Debug\seospr.pdb
+D:\C#\seospr\seospr\bin\Debug\seospr.exe
+D:\C#\seospr\seospr\bin\Debug\seospr.pdb
+D:\C#\seospr\seospr\obj\Debug\seospr.csprojResolveAssemblyReference.cache
+D:\C#\seospr\seospr\obj\Debug\seospr.Properties.Resources.resources
+D:\C#\seospr\seospr\obj\Debug\seospr.csproj.GenerateResource.Cache
+D:\C#\seospr\seospr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\agrekul\Desktop\seospr\seospr\bin\Debug\seospr.exe.config
+C:\Users\agrekul\Desktop\seospr\seospr\obj\Debug\seospr.exe
+C:\Users\agrekul\Desktop\seospr\seospr\obj\Debug\seospr.pdb
+C:\Users\agrekul\Desktop\seospr\seospr\bin\Debug\seospr.exe
+C:\Users\agrekul\Desktop\seospr\seospr\bin\Debug\seospr.pdb
+C:\Users\agrekul\Desktop\seospr\seospr\obj\Debug\seospr.csprojResolveAssemblyReference.cache
+C:\Users\agrekul\Desktop\seospr\seospr\obj\Debug\seospr.Form1.resources
+C:\Users\agrekul\Desktop\seospr\seospr\obj\Debug\seospr.MyClass.resources
+C:\Users\agrekul\Desktop\seospr\seospr\obj\Debug\seospr.Properties.Resources.resources
+C:\Users\agrekul\Desktop\seospr\seospr\obj\Debug\seospr.csproj.GenerateResource.Cache
+D:\C#\seospr\seospr\obj\Debug\seospr.Form1.resources
+D:\C#\seospr\seospr\obj\Debug\seospr.Form2.resources
+C:\Users\stas\Documents\Visual Studio 2012\Projects\seospr\seospr\obj\Debug\seospr.Form2.resources
+D:\C#\seospr\seospr\seospr\bin\Debug\seospr.exe.config
+D:\C#\seospr\seospr\seospr\obj\Debug\seospr.exe
+D:\C#\seospr\seospr\seospr\obj\Debug\seospr.pdb
+D:\C#\seospr\seospr\seospr\bin\Debug\seospr.exe
+D:\C#\seospr\seospr\seospr\bin\Debug\seospr.pdb
+D:\C#\seospr\seospr\seospr\bin\Debug\HtmlAgilityPack.dll
+D:\C#\seospr\seospr\seospr\obj\Debug\seospr.Form1.resources
+D:\C#\seospr\seospr\seospr\obj\Debug\seospr.Form2.resources
+D:\C#\seospr\seospr\seospr\obj\Debug\seospr.Properties.Resources.resources
+D:\C#\seospr\seospr\seospr\obj\Debug\seospr.csproj.GenerateResource.Cache
+D:\C#\seospr\seospr\seospr\obj\Debug\seospr.csprojResolveAssemblyReference.cache
